@@ -1,0 +1,28 @@
+img{
+    width: 100%;
+    border-radius: 5px;
+}
+
+.post-desc{
+    letter-spacing: .3px;
+    line-height: 1.6;
+    font-size: 1.25rem;
+    color: #4a4a4a;
+}
+.post-data{
+    margin-bottom: 10px;
+}
+.color{
+    color: #4a4a4a;
+    font-style: italic;
+    font-size: 1.25rem;
+}
+.post-title{
+    color: #333;
+}
+
+.post-header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
