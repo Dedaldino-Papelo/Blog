@@ -13,6 +13,9 @@
     border: 1px solid #f8f4f4;
     transition: all 1s;
 }
+.card:hover{
+   transform: translate(5px, 12px);
+}
 
 .card-body{
     padding: 20px;
